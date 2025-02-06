@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujith017/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujith017/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujith017/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0238-product-of-array-except-self](https://github.com/sujith017/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujith017/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sujith017/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
