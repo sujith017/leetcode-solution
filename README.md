@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujith017/leetcode-solution/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/sujith017/leetcode-solution/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
