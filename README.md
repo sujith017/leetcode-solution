@@ -34,8 +34,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujith017/leetcode-solution/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/sujith017/leetcode-solution/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sujith017/leetcode-solution/tree/master/0006-zigzag-conversion) |
+| [0383-ransom-note](https://github.com/sujith017/leetcode-solution/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sujith017/leetcode-solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
