@@ -1,38 +1,40 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if(numRows == 1 || numRows>s.length())
+        if(s.length() == 1 || numRows == 1)
         {
             return s;
         }
+        List<Character>[] arr = new ArrayList[numRows];
 
-        List<Character>[] rows = new ArrayList[numRows];
-
-        for(int i = 0;i<numRows;i++)
+        for(int i = 0;i< numRows;i++)
         {
-            rows[i] = new ArrayList<>();
+            arr[i] = new ArrayList<>();
         }
-        int idx = 0;
+
         int d = 1;
+        int idx = 0;
 
         for(char a : s.toCharArray())
         {
-            rows[idx].add(a);
-            if(idx==0)
+            arr[idx].add(a);
+
+            if(idx == 0)
             {
                 d = 1;
             }
-            else if( idx == numRows -1)
+            else if(idx == numRows - 1)
             {
                 d = -1;
             }
             idx+=d;
         }
         String str = "";
-        for(List<Character> row : rows)
+
+        for(List<Character> a : arr)
         {
-            for(char c : row)
+            for(char p : a)
             {
-                str = str+c;
+                str = str+p;
             }
         }
         return str;
