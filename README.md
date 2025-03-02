@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sujith017/leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujith017/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sujith017/leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujith017/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sujith017/leetcode-solution/tree/master/0134-gas-station) |
 ## Prefix Sum
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sujith017/leetcode-solution/tree/master/0006-zigzag-conversion) |
+| [0044-wildcard-matching](https://github.com/sujith017/leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0383-ransom-note](https://github.com/sujith017/leetcode-solution/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sujith017/leetcode-solution/tree/master/0016-3sum-closest) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/sujith017/leetcode-solution/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
