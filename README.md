@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sujith017/leetcode-solution/tree/master/0383-ransom-note) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/sujith017/leetcode-solution/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
