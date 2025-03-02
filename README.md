@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujith017/leetcode-solution/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/sujith017/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sujith017/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujith017/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujith017/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/sujith017/leetcode-solution/tree/master/0585-investments-in-2016) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/sujith017/leetcode-solution/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/sujith017/leetcode-solution/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
