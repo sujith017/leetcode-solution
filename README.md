@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0134-gas-station](https://github.com/sujith017/leetcode-solution/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sujith017/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sujith017/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sujith017/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1524-string-matching-in-an-array](https://github.com/sujith017/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search
 |  |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sujith017/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sujith017/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujith017/leetcode-solution/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/sujith017/leetcode-solution/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/sujith017/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
