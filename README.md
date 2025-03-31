@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sujith017/leetcode-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sujith017/leetcode-solution/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/sujith017/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [1524-string-matching-in-an-array](https://github.com/sujith017/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0006-zigzag-conversion](https://github.com/sujith017/leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/sujith017/leetcode-solution/tree/master/0044-wildcard-matching) |
 | [0383-ransom-note](https://github.com/sujith017/leetcode-solution/tree/master/0383-ransom-note) |
+| [1524-string-matching-in-an-array](https://github.com/sujith017/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sujith017/leetcode-solution/tree/master/0046-permutations) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/sujith017/leetcode-solution/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
